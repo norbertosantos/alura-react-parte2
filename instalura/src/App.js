@@ -3,6 +3,7 @@ import Header from './componentes/Header';
 import Timeline from './componentes/Timeline';
 import  './css/reset.css';
 import  './css/timeline.css';
+import  './css/login.css';
 
 class App extends Component {
   render() {
